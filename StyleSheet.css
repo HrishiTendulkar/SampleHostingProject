@@ -1,0 +1,78 @@
+.class-one {
+	background-color: lightpink;
+}
+
+.class-two {
+	background-color: lightgreen;
+}
+
+.class-three {
+	background-color: lightblue;
+}
+
+.class-four {
+	background-color: lightgray;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #16384e;
+}
+
+.flex-container > div {
+  background-color: lightblue;
+  width: 500px;
+  margin: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.flex-container2 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #16384e;
+}
+
+.flex-container2 > div {
+  background-color: lightblue;
+  width: 600px;
+  margin: 10px;
+  text-align: left;
+  font-size: 30px;
+}
+
+.flex-container3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #16384e;
+}
+
+.flex-container3 > div {
+  background-color: lightblue;
+  width: 150px;
+  height: 55px;
+  margin: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.flex-container4 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #16384e;
+}
+
+.flex-container4 > div {
+  background-color: lightblue;
+  width: 400px;
+  height: 350px;
+  margin: 10px;
+  text-align: center;
+  font-size: 30px;
+}
